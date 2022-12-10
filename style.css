@@ -1,0 +1,194 @@
+html{
+   
+}
+
+body {
+
+}
+
+
+.container {
+    padding:20px ;
+
+}
+
+.gmr {
+    float: right;
+    margin-right: 15px;    
+}
+
+.gmr>div {
+    display: inline;
+    padding: 0 3px;
+}
+ a {
+    color: rgba(0,0,0,0.87);
+    text-decoration-line: none;
+    vertical-align: middle;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+}
+
+a:hover {
+    text-decoration: underline;
+    color: rgba(0,0,0,0.87);
+}
+
+.ibtn-s {
+    
+    background-color: #f8f9fa;
+    border: 1px solid #f8f9fa;
+    border-radius: 4px;
+    color: #3c4043;
+    font-family: arial,sans-serif;
+    font-size: 14px;
+    margin: 11px 4px;
+    padding: 0 16px;
+    line-height: 27px;
+    height: 36px;
+    min-width: 54px;
+    text-align: center;
+    cursor: pointer;
+    user-select: none;
+}
+
+.ibtn-s:hover {
+    border-color: #c5c5c5;
+}
+
+.row {
+    margin-top: 25px;
+}
+
+.form-control {
+    border-radius: 24px!important;
+    max-width: 80%;
+    margin: auto;
+    width: 50%;
+}
+
+.btnIc {
+    margin: auto;
+    width: 50%;
+    margin-top: -10px;
+    text-align: center;
+}
+
+.btnIc>input {
+    display: inline;
+    position: relative;
+}
+.gimg {
+    margin-top: 110px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+}
+
+.gimg>img {
+    display: block;
+    margin: inherit;
+}
+
+
+/*advanced-search*/
+.fogas{
+    display: block;
+    margin-left: 45px;
+    width:50%;
+    
+}
+.atw, .tewop, .aotw, .notw {
+    padding-top: 50px;
+    display:block;
+    ;
+}
+
+.atw > div:first-child, .tewop > div:first-child, .aotw > div:first-child, .notw > div:first-child {
+    float: left;
+    display: inline-block;
+    vertical-align: middle;
+    height: 30px;
+    font-size: 13px;
+    width: 154px;
+    
+
+
+
+}
+.atw > div:nth-child(2) , .tewop > div:nth-child(2) , .aotw > div:nth-child(2) , .notw > div:nth-child(2)  {
+    float: left;
+    margin-left: 50px;
+    ;
+    display: inline-block;
+    min-width: 167px;
+    min-height: 41px;
+    vertical-align: middle;
+    width: 50%;
+
+
+}
+.atw > div:nth-child(2) > input , .tewop > div:nth-child(2) > input , .aotw > div:nth-child(2) > input , .notw > div:nth-child(2) > input {
+    width: 100%;
+}
+
+div.gimg span {
+    color: #4285f4;
+    font: 16px/16px roboto-regular, arial, sans-serif;
+    position: absolute;
+    left: 1038px;
+    bottom: 724px;
+    white-space: nowrap;
+}
+
+/*------------------------------------------*/
+
+
+
+.submit-btn {
+    
+    float: left;
+    clear: both;
+    display: inline-block;
+    min-width: 167px;
+    min-height: 41px;
+    vertical-align: middle;
+    width: 50%;
+}
+
+.nowetw {
+float: left;
+    display: block;
+    min-width: 167px;
+    width: 16%;
+    height: 42px;
+    color: #222;
+    font-size: 13px;
+    line-height: 16px;
+    vertical-align: middle;}
+
+
+.qweasd{
+
+        color: #f28b82;
+        color: #d93025;
+    font-size: 20px;
+    margin: 25px -10px;
+    
+    
+    }
+
+.qweasd label {
+
+    padding-left: 50px;
+    margin-top: 25px;
+}
+
+.rete{
+
+    width: 100%;
+    border-color: #3c4043;
+    border-bottom: 1px solid #e0e0e0;
+
+}
